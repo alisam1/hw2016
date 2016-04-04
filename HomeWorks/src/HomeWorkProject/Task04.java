@@ -7,5 +7,7 @@ public class Task04 {
 		System.out.print(i + " ");
 		i++;    
 }
+		
 }
+	
 }
